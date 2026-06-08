@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Hariharan R
-- 👀 I’m interested in Software Development, Machine Learning, Programming 
-- 🌱 I’m currently learning Data Science and Electronics and Communication Engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me haranrhari28@gmail.com
-- 😄 Pronouns: ...his/him
-- ⚡ Fun fact: ...
+I am an XR-focused developer passionate about building AI-powered spatial interaction systems using Computer Vision, Unity, OpenXR, and real-time gesture recognition.
 
-<!---
-agent-genius/agent-genius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My work focuses on:
+- Touchless Interaction
+- XR Interfaces
+- AI Gesture Systems
+- Spatial Computing
+- Human-Computer Interaction
